@@ -112,22 +112,15 @@ Você pode saber mais sobre minha trajetória no LinkedIn "[Joabe Ramos Leal](ht
 
 ### 📊 Estatísticas
 
-<table>
-  <tr>
-    <td>
-      <img 
-        alt="GitHub Stats" 
-        height="200" 
-        src="https://github-readme-stats.vercel.app/api?username=joabe7033&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-      />
-      <img 
-        alt="Top Langs" 
-        height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=joabe7033&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-      />
-    </td>
-  </tr>
-</table>
-
-
-
+<p align="center">
+  <img 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api?username=joabe7033&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+  <img 
+    alt="Top Langs" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joabe7033&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
