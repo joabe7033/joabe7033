@@ -112,7 +112,7 @@ Você pode saber mais sobre minha trajetória no LinkedIn "[Joabe Ramos Leal](ht
 
 ### 📊 Estatísticas
 
-<p align="center">
+<p align="left">
   <img 
     alt="GitHub Stats" 
     height="200" 
