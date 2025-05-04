@@ -112,7 +112,8 @@ Tenho interesse em atuar como desenvolvedor Back-end, onde posso aprofundar meus
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 />
 
-<br/><br/><br/><br clear="left"/>
+<br/>
+<br/>
 
 ### 📊 Estatísticas
 
