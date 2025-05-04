@@ -112,24 +112,24 @@ Tenho interesse em atuar como desenvolvedor Back-end, onde posso aprofundar meus
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 />
 
-<br/>
-<br/>
+<br/><br/><br/><br clear="left"/>
 
 ### 📊 Estatísticas
 
-
-<div style="display: flex; gap: 10px;">
+<p>
   <img 
+    align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=joabe7033&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-  <img 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joabe7033&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joabe7033&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-</div>
 
+</p>
