@@ -1,4 +1,4 @@
-👨🏾‍💻# 🧑🏽‍💻 Joabe Leal
+# 👨🏽‍💻 Joabe Leal
 
 **`Futuro Desenvolvedor Back-end`**
 
