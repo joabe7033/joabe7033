@@ -6,27 +6,34 @@ Me chamo Joabe Ramos Leal, tenho 18 anos e sou estudante do último ano do curso
 Tenho interesse em atuar como desenvolvedor Back-end, onde posso aprofundar meus conhecimentos em lógica de programação, estruturas de dados e Segurança da Informação. Estou sempre em busca de aprendizado e acredito no poder da colaboração para alcançar resultados de qualidade.
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/joabe-ramos-leal/" target="_blank">
-        <img 
-            alt="LinkedIn" 
-            title="Vamos nos conectar!" 
-            src="https://custom-icon-badges.demolab.com/static/v1?label=LinkedIn&message=Conecte-se%20comigo&color=0A66C2&labelColor=084c91&style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/joabe7033?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/joabe7033?color=6e40c9&labelColor=5e35b1&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/joabe7033?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/joabe7033?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
+  <a href="mailto:joabeleal07@gmail.com">
+    <img 
+      alt="E-mail" 
+      title="Me envie um e-mail!" 
+      src="https://custom-icon-badges.demolab.com/static/v1?label=E-mail&message=Contato&color=d44638&labelColor=a3392d&style=for-the-badge&logo=gmail&logoColor=white" 
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/joabe-ramos-leal/" target="_blank">
+    <img 
+      alt="LinkedIn" 
+      title="Vamos nos conectar!" 
+      src="https://custom-icon-badges.demolab.com/static/v1?label=LinkedIn&message=Conecte-se%20comigo&color=0A66C2&labelColor=084c91&style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+  <a href="https://github.com/joabe7033?tab=followers">
+    <img 
+      alt="Seguidores" 
+      title="Me siga no GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/followers/joabe7033?color=6e40c9&labelColor=5e35b1&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+    />
+  </a>
+  <a href="https://github.com/joabe7033?tab=repositories&sort=stargazers">
+    <img 
+      alt="Total de estrelas" 
+      title="Total de estrelas GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/stars/joabe7033?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+    />
+  </a>
 </p>
 
 ---
