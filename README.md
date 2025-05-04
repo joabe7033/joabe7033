@@ -4,7 +4,7 @@
 
 Me chamo Joabe Ramos Leal, tenho 18 anos e sou estudante do último ano do curso de Análise e Desenvolvimento de Sistemas na Universidade Positivo. Sou apaixonado por tecnologia e busco uma oportunidade de estágio para aplicar meus conhecimentos acadêmicos e ganhar experiência prática na área.
 Tenho interesse em atuar como desenvolvedor Back-end, onde posso aprofundar meus conhecimentos em lógica de programação, estruturas de dados e Segurança da Informação. Estou sempre em busca de aprendizado e acredito no poder da colaboração para alcançar resultados de qualidade.
-Você pode saber mais sobre minha trajetória no LinkedIn [Joabe Ramos Leal]
+Você pode saber mais sobre minha trajetória no LinkedIn "[Joabe Ramos Leal](https://www.linkedin.com/in/joabe-ramos-leal/)".
 
 
 <p align="left">
