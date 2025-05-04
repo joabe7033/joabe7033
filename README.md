@@ -130,7 +130,6 @@ Tenho interesse em atuar como desenvolvedor Back-end, onde posso aprofundar meus
       align="left" 
       alt="GitHub Stats" 
       height="200"
-      width="450" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=joabe7033&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
